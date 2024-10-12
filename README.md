@@ -7,3 +7,8 @@ To get confirmed covid cases of particular state use this API : "http://localhos
 I have created the above two APIs using REST. Technologies and Frameworks : HTML,CSS,javaScript,Spring,SpringBoot,RESTApi.
 
 I am a learner please feel free to give advice to help me become a better engineer, Thank you!!!.
+                                            ![Screenshot 2024-10-11 202539](https://github.com/user-attachments/assets/5266d34d-20d4-404b-bd38-b3861569b3fb)
+
+
+
+
